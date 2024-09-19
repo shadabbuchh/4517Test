@@ -18,7 +18,7 @@
   "icon": "medal",
   "pages": [
     {
-      "id": "Page1",
+      "id": "First Page",
       "isDefault": true
     },
     {

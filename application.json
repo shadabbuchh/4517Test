@@ -24,6 +24,10 @@
     {
       "id": "cURL",
       "isDefault": false
+    },
+    {
+      "id": "Additional Page",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {

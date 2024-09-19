@@ -18,12 +18,12 @@
   "icon": "medal",
   "pages": [
     {
-      "id": "First Page",
-      "isDefault": true
-    },
-    {
       "id": "cURL",
       "isDefault": false
+    },
+    {
+      "id": "First Page",
+      "isDefault": true
     },
     {
       "id": "Additional Page",

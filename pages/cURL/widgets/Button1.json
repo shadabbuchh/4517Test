@@ -31,7 +31,7 @@
   "mobileRightColumn": 16,
   "mobileTopRow": 24,
   "needsErrorInfo": false,
-  "onClick": "{{JSObject1.myFun2();}}",
+  "onClick": "{{appsmith.geolocation.clearWatch();}}",
   "parentColumnSpace": 13.0625,
   "parentId": "0",
   "parentRowSpace": 10,

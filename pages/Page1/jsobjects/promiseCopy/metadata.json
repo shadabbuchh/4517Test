@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "f894a89f-593f-4400-be49-5fae01a58996_94d00e73-f550-4293-972e-eb0af2347475",
+  "id": "Page1_promiseCopy",
+  "unpublishedCollection": {
+    "name": "promiseCopy",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "gitSyncId": "f894a89f-593f-4400-be49-5fae01a58996_8490cd4e-8a54-4d27-9d47-fa5f5d57c0aa",
-  "id": "cURL_JSObject1",
+  "id": "cURL_Interval",
   "unpublishedCollection": {
-    "name": "JSObject1",
+    "name": "Interval",
     "pageId": "cURL",
     "pluginId": "js-plugin",
     "pluginType": "JS",

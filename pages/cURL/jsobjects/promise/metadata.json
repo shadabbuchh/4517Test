@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "f894a89f-593f-4400-be49-5fae01a58996_28aef509-239d-4a59-bf5f-d0b2858ac88f",
+  "id": "cURL_promise",
+  "unpublishedCollection": {
+    "name": "promise",
+    "pageId": "cURL",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
